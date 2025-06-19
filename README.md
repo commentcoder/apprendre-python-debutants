@@ -31,7 +31,8 @@ Ensuite, on voit les concepts de base qui vont vous permettre de vous orienter v
 ---
 
 🚀 Envie d'aller plus loin ?
-- Pratiquez Python avec 200+ exercices : https://www.commentcoder.com/cours/python-exercices/
+- Pratiquez Python avec 250+ Exercices : https://www.commentcoder.com/cours/python-exercices/
+- Pratiquez Python avec 10+ Projets : https://www.commentcoder.com/cours/python-projets-debutants/
 - Abonnez-vous pour plus de vidéos sur Python : https://www.youtube.com/channel/UCEztUC2WwKEDkVl9c6oUoTw?sub_confirmation=1
 - Posez vos questions sur discord : https://discord.gg/2AubRA4eBQ
 
