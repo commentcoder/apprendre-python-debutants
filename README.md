@@ -33,7 +33,6 @@ Ensuite, on voit les concepts de base qui vont vous permettre de vous orienter v
 🚀 Envie d'aller plus loin ?
 - Pratiquez Python avec 200+ exercices : https://www.commentcoder.com/cours/python-exercices/
 - Abonnez-vous pour plus de vidéos sur Python : https://www.youtube.com/channel/UCEztUC2WwKEDkVl9c6oUoTw?sub_confirmation=1
-- Détails du projet : https://github.com/commentcoder/bot-discord-py-replit
 - Posez vos questions sur discord : https://discord.gg/2AubRA4eBQ
 
 🐍 Mes autres tutoriels en Python :
